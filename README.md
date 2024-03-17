@@ -1,5 +1,6 @@
 # Fake-news-detection-for-MPhil
-my own resources collection for fake news detection
+my own resources collection for fake news detection,
+Chinese translation included using ChatGpt
 
 ## Domain Adaptive Fake News Detection
 
